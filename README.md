@@ -1,6 +1,6 @@
 # Artificial Intelligence Lab Experiments CSE4212
 
-## Experiment List
+## Experiment List.
 
 ### 1. Build a Neural Network Model
 - Design and implement a Neural Network model with specified parameters.
